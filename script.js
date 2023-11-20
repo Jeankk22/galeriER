@@ -1,6 +1,6 @@
 const gallery = document.getElementById("imageGallery");
 
-const directoryPath = "../galeriER/uploads";
+const directoryPath = "galeriER/uploads";
 
 // An array to hold image file names dynamically
 const imageFiles = [];
